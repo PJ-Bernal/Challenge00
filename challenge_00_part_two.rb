@@ -1,6 +1,6 @@
 #  Student: Pablo Javier Bernal Mariño
 
-#  1) Write a Ruby program to calculate the after tax value of a specific dollar amount.
+#  2) Update your Ruby program from question one such that it prints a short message after the grand total.
 
 sub_total = rand(100)
 GST_TAX_VALUE = 0.07

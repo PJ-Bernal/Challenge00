@@ -1,6 +1,6 @@
 #  Student: Pablo Javier Bernal Mariño
 
-#  1) Write a Ruby program to calculate the after tax value of a specific dollar amount.
+#  3) Request user input
 
 puts "Hi! Type the amount: "
 sub_total = sub_total = STDIN.gets.chomp.to_f
