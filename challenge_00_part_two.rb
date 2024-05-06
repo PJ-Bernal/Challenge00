@@ -3,8 +3,8 @@
 #  1) Write a Ruby program to calculate the after tax value of a specific dollar amount.
 
 sub_total = rand(100)
-GST_TAX_VALUE = 0.35
-PST_TAX_VALUE = 0.25
+GST_TAX_VALUE = 0.07
+PST_TAX_VALUE = 0.05
 grand_total = sub_total * GST_TAX_VALUE + sub_total + PST_TAX_VALUE
 
 
