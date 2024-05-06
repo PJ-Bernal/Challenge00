@@ -2,7 +2,6 @@
 
 #  1) Write a Ruby program to calculate the after tax value of a specific dollar amount.
 
-puts "Hi! Type the amount: "
 sub_total = rand(100)
 GST_TAX_VALUE = 0.35
 PST_TAX_VALUE = 0.25
